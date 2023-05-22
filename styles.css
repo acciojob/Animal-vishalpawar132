@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#animal-photos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+
+.animal-photo {
+      width: 200px;
+      height: 200px;
+      border-radius: 10px;
+      overflow: hidden;
+	
+    }
+
+
+
+
+
+
